@@ -1,2 +1,2 @@
-# major1
-College Major 1 Project
+# Major Project: Automated teeth segmentation in X-ray images
+College Major Project 1
